@@ -10,7 +10,7 @@
 <h3 align="center">Code Refractor</h3>
 
   <p align="center">
-     In this project some code was provided, I have to fix the code, make it more readable, add comments to the code, work with github and deploy the web online.In general, I have to make the web more accessible in general terms.
+     In this project some code was provided, I have to fix the code, make it more readable, add comments to the code, work with github and deploy the web online.I have to make the web more accessible in general terms.
     <br />
   </p>
 </div>

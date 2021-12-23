@@ -4,7 +4,7 @@
     padding: 0;
     margin: 0;
 }
-/* Element Selector */
+/* Element Selectors */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -17,7 +17,7 @@ p {
 body {
     background-color: #d9dcd6;
 }
-/* classes for positioning */
+/* specific elements classes */
 
 .float-left {
     float: left;
